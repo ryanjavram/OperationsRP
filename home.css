@@ -11,6 +11,7 @@ body {
     background: #ffffff;
     color: white;
     font-size: 30px;
+    width: 100%;
 }
 
 .headerHeader__text {
@@ -70,8 +71,8 @@ body {
 }
 
 .orpHeader_image {
-    width: 700px;
-    height: 700px;
+    width: 200px;
+    height: 200px;
     padding-bottom: 0px;
     padding-top: 30px;
 }
