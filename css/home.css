@@ -80,4 +80,5 @@ body {
 .material-icons {
     color: #000000;
     vertical-align: bottom;
+    margin-left: -15px;
 }
