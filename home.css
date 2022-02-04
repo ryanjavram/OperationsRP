@@ -15,7 +15,8 @@ body {
 
 .headerHeader__text {
     color: #000000;
-    font-size: 22px;
+    font-size: 24px;
+    font-weight: 500;
 }
 
 .homeHeader__button {
