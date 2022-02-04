@@ -18,9 +18,8 @@ body {
 }
 
 .homeHeader__button {
-    background-color: none;
     outline: none;
     border: none;
-    background: none;
+    background-color: #ffffff;
     font-size: 16px;
 }
