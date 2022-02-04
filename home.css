@@ -1,0 +1,18 @@
+body {
+    background-color: #cf4242;
+    margin-top: 0px;
+    margin-left: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header__div {
+    padding: 60px;
+    text-align: center;
+    background: #ffffff;
+    color: white;
+    font-size: 30px;
+}
+
+.headerHeader__text {
+    color: #000000;
+}
