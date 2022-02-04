@@ -16,3 +16,9 @@ body {
 .headerHeader__text {
     color: #000000;
 }
+
+.homeHeader__button {
+    background-color: none;
+    outline: none;
+    border: none;
+}
