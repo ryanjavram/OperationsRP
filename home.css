@@ -23,3 +23,45 @@ body {
     background-color: #ffffff;
     font-size: 16px;
 }
+
+.applicationHeader__button {
+    outline: none;
+    border: none;
+    background-color: #ffffff;
+    font-size: 16px;
+}
+
+.donateHeader__button {
+    outline: none;
+    border: none;
+    background-color: #ffffff;
+    font-size: 16px;
+}
+
+.mediaHeader__button {
+    outline: none;
+    border: none;
+    background-color: #ffffff;
+    font-size: 16px;
+}
+
+.deptsHeader__button {
+    outline: none;
+    border: none;
+    background-color: #ffffff;
+    font-size: 16px;
+}
+
+.leadershipHeader__button {
+    outline: none;
+    border: none;
+    background-color: #ffffff;
+    font-size: 16px;
+}
+
+.materialsHeader__button {
+    outline: none;
+    border: none;
+    background-color: #ffffff;
+    font-size: 16px;
+}
