@@ -68,3 +68,10 @@ body {
     background-color: #ffffff;
     font-size: 16px;
 }
+
+.orpHeader_image {
+    width: 700px;
+    height: 700px;
+    padding-bottom: 0px;
+    padding-top: 30px;
+}
