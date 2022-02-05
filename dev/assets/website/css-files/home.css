@@ -1,0 +1,109 @@
+body {
+    background-color: #ffffff;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.header__div {
+    padding-top: 5px;
+    padding-bottom: 20px;
+    background: #ffffff;
+    color: white;
+    width: 100%;
+    box-shadow: 0px 3px 5px #bbbbbb;
+    height: 77px;
+    vertical-align: middle;
+}
+
+.headerNavOptions__div {
+    margin-left: 61%;
+    vertical-align: middle;
+    margin-top: -50px;
+}
+
+.homeHeader__button {
+    outline: none;
+    border: none;
+    background-color: #ffffff;
+    font-size: 16px;
+    vertical-align: middle;
+}
+
+.applicationHeader__button {
+    outline: none;
+    border: none;
+    background-color: #ffffff;
+    font-size: 16px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.donateHeader__button {
+    outline: none;
+    border: none;
+    background-color: #ffffff;
+    font-size: 16px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.mediaHeader__button {
+    outline: none;
+    border: none;
+    background-color: #ffffff;
+    font-size: 16px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.deptsHeader__button {
+    outline: none;
+    border: none;
+    background-color: #ffffff;
+    font-size: 16px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.leadershipHeader__button {
+    outline: none;
+    border: none;
+    background-color: #ffffff;
+    font-size: 16px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.materialsHeader__button {
+    outline: none;
+    border: none;
+    background-color: #ffffff;
+    font-size: 16px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.orpHeader_image {
+    width: 80px;
+    height: 80px;
+    margin-left: 20px;
+    vertical-align: middle;
+    margin-top: 5px;
+}
+
+.material-icons {
+    color: #000000;
+    vertical-align: middle;
+}
+
+.arrowHeader__icon {
+    margin-left: -10px;
+}
+
+.notifHeader__icon {
+    margin-left: 10px;
+}
+
+.accountHeader__icon {
+    margin-left: 10px;
+}
