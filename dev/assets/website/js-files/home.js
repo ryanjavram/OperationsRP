@@ -8,8 +8,5 @@ window.addEventListener("load", function() {
         method: 'POST',
         body: data,
       })
-      .then(() => {
-        alert("Success!");
-      })
-    });
-  });
+      .then(() =>
+        function addNewClass(idd){   idd.className="newClass"; }
