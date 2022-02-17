@@ -1,3 +1,10 @@
-#trelloCard__div {
-    width: 495px;
+body {
+    width: 100%;
+    height: 1000px;
+}
+
+.row {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
 }
