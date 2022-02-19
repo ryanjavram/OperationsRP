@@ -91,12 +91,24 @@ body {
     opacity:0.6;
   }
 
-  #openPrivacyPolicy__a {
-      cursor: pointer;
-  }
+#openPrivacyPolicy__a {
+  cursor: pointer;
+}
 
-  #openDiscord__a {
-    cursor: pointer;
+#openDiscord__a {
+  cursor: pointer;
+}
+
+#openAcknowledgements__a {
+  cursor: pointer;
+}
+
+#openContentDevelopment__a {
+  cursor: pointer;
+}
+
+#openStatus__a {
+  cursor: pointer;
 }
 
 #bcsoMissionStatement {
@@ -104,6 +116,18 @@ body {
   position: relative;
   top: 40px;
   left: 40px;
+}
+
+#openAbout__a {
+  cursor: pointer;
+}
+
+#openLeadership__a {
+  cursor: pointer;
+}
+
+#openTOS__a {
+  cursor: pointer;
 }
 
 .card {
